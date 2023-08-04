@@ -6,7 +6,8 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #972727;
+  text-emphasis-color: hsl(125, 88%, 46%);
 }
 
 main {
